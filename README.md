@@ -1,6 +1,6 @@
 # evie-jekyll
 
-[![Gem Version](https://badge.fury.io/rb/evie-jekyll.svg)](https://badge.fury.io/rb/evie-jekyll)
+[![Gem](https://img.shields.io/gem/v/evie-jekyll.svg)](https://rubygems.org/gems/evie-jekyll)
 
 The [Evie theme](https://evie.undraw.co/) ported as a Jekyll theme. With some minor improvements/optimizations as well.
 
